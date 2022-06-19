@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/github/issues-pr/rahulkarda/readme-template?color=darkorange&label=Pull%20Requests&style=for-the-badge">
 <img src="https://img.shields.io/github/license/rahulkarda/readme-template?style=for-the-badge">
 </p>
-<br>
 
 # Your-Project-Title
 
@@ -68,6 +67,14 @@ If your project has a lot of features, list them here.
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
@@ -100,5 +107,13 @@ Don't forget to give the project a star! Thanks again!
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
 
 
